@@ -1,0 +1,53 @@
+body {
+    padding-top: 50px;
+}
+
+p {
+    margin: 2px;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    margin: 10px;
+    width: 6em;
+    height: 3em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+
+}
+
+.row {
+    margin-left: 70px;
+}
+
+.digit {
+    background: #c6c7ce;
+}
+
+#calculator {
+    margin: 0 auto;
+    width: 630px;
+}
+
+#screen {
+    text-align: right;
+    background: grey;
+    color: white;
+    padding-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+#pastCalc {
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#previously {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
